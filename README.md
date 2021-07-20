@@ -1,1 +1,0 @@
-# Character-at-Even-Index
